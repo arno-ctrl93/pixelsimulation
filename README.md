@@ -1,8 +1,9 @@
 # pixelsimulation
-Project for UHK by Arnaud NOTTEr
+Project for UHK by Arnaud NOTTER
 
 
 ++++++++++++++++++++++++++++++++++++++++++++
+           
            Version 1
 ++++++++++++++++++++++++++++++++++++++++++++
 
