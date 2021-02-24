@@ -1,7 +1,7 @@
 # pixelsimulation
 Project for UHK by Arnaud NOTTER
 
-
+To try my project, please download the folder PixelSimulationVxx and launch after the executable file. 
 ++++++++++++++++++++++++++++++++++++++++++++
            
            Version 1
