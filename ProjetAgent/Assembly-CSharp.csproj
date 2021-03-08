@@ -52,14 +52,22 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\AgentApplication.cs" />
-     <Compile Include="Assets\GestionCube.cs" />
-     <Compile Include="Assets\InformationPanel.cs" />
-     <Compile Include="Assets\Board.cs" />
-     <Compile Include="Assets\SwitchCamera.cs" />
-     <Compile Include="Assets\Agent.cs" />
-     <Compile Include="Assets\Direction.cs" />
-     <Compile Include="Assets\Application.cs" />
+     <Compile Include="Assets\Script\AgentApplication.cs" />
+     <Compile Include="Assets\Script\GestionCube.cs" />
+     <Compile Include="Assets\Script\Class\Game.cs" />
+     <Compile Include="Assets\Script\InformationPanel.cs" />
+     <Compile Include="Assets\Script\Class\Board.cs" />
+     <Compile Include="Assets\Script\Class\UserInterface.cs" />
+     <Compile Include="Assets\Script\SwitchCamera.cs" />
+     <Compile Include="Assets\Script\Class\PannelAddAgent.cs" />
+     <Compile Include="Assets\Script\Class\Agent.cs" />
+     <Compile Include="Assets\Script\Class\PannelPause.cs" />
+     <Compile Include="Assets\Script\Class\PannelSettings.cs" />
+     <Compile Include="Assets\Script\StartingApp.cs" />
+     <Compile Include="Assets\ErrorWindows.cs" />
+     <Compile Include="Assets\Script\Class\Direction.cs" />
+     <Compile Include="Assets\Script\Application.cs" />
+     <Compile Include="Assets\Script\Class\StartPannel.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
