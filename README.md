@@ -4,6 +4,29 @@ Project for UHK by Arnaud NOTTER
 To try my project, please download the folder PixelSimulationVxx and launch after the executable file.
 ++++++++++++++++++++++++++++++++++++++++++++
 
+       Version 2
+++++++++++++++++++++++++++++++++++++++++++++
+
+-Structuration and Management of projects (Creation class, Add commentary and organize code)
+
+-Add 3 states : PAUSE, PLAY, STOP
+
+-Add 3 pannels: Setting Menu, Pause Menu , Add Agent Menu
+
+-Setting Menu: implementation of parameter like graphic levels, resolutions...
+
+-Pause Menu: interface to quit the party or go to setting menu (PRESS SPACE IN GAME )
+
+-Add Agent Menu: interface to add an agent during the game manually
+
+-New introduction and new logo created by a friend.
+
+-Creation of a warning windows appears when an error appear on the input.
+
+-Fix problem with overlapping interfaces and other problem.
+
+++++++++++++++++++++++++++++++++++++++++++++
+
            Version 1
 ++++++++++++++++++++++++++++++++++++++++++++
 
