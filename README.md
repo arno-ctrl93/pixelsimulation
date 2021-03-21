@@ -2,6 +2,25 @@
 Project for UHK by Arnaud NOTTER
 
 To try my project, please download the folder PixelSimulationVxx and launch after the executable file.
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+           Version 3
+++++++++++++++++++++++++++++++++++++++++++++
+
+-Update Collisions between agent
+
+- Add an option to choose the size of the board (BETA graphic part not implemented)
+
+- Fix bug when agent glitch in the boarder and can't move
+
+- Add comportement of group to Agent (creation group of agent)
+
+- Add pannel help ( we can find it in the start pannel - logo ?)
+
+- Add button Quit application 
+
+
 ++++++++++++++++++++++++++++++++++++++++++++
 
        Version 2
@@ -45,6 +64,7 @@ To try my project, please download the folder PixelSimulationVxx and launch afte
 -But I want to develop for the next version the class Agent and after start to implement more sophisticated behaviors.
 
 -You can also switch Camera with "p".
+
 
 
 
