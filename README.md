@@ -3,12 +3,21 @@ Project for UHK by Arnaud NOTTER
 
 To try my project, please download the folder PixelSimulationVxx and launch after the executable file.
 
+
 ++++++++++++++++++++++++++++++++++++++++++++
 
            Version 4
 ++++++++++++++++++++++++++++++++++++++++++++
 
-Fix bug and corrige problem with the field
+Fix bug and correction of the problem with the field
+
+
+Tips : If you found problem with resolution. Please press "R" when you are on the Main Menu 
+(to skip the introduction, press "Space")
+
+Tips: when you start a simulation, put a maximum of 400 agents (square) at the beginning.(Problem of memory)
+
+
 
 
 
