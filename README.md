@@ -5,6 +5,15 @@ To try my project, please download the folder PixelSimulationVxx and launch afte
 
 ++++++++++++++++++++++++++++++++++++++++++++
 
+           Version 4
+++++++++++++++++++++++++++++++++++++++++++++
+
+Fix bug and corrige problem with the field
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++
+
            Version 3
 ++++++++++++++++++++++++++++++++++++++++++++
 
